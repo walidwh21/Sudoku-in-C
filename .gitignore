@@ -1,0 +1,13 @@
+# Compiled files
+bin/
+obj/
+*.exe
+*.o
+*.obj
+
+# IDE and editor settings
+.vscode/
+
+# Code::Blocks generated files
+*.depend
+*.layout
